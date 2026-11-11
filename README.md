@@ -38,6 +38,7 @@ class Gentrit:
 ![MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
 ![Réseaux](https://img.shields.io/badge/Notions%20réseaux-111111?style=flat-square)
