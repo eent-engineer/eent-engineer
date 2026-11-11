@@ -45,6 +45,9 @@ class Gentrit:
 ![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square)
 ![IA](https://img.shields.io/badge/IA%20%2F%20Teachable%20Machine-111111?style=flat-square)
 ![Admin système](https://img.shields.io/badge/Administration%20système-111111?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-111111?style=flat-square)
 
 **Support & relation client**
 
