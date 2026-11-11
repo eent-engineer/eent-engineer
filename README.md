@@ -4,10 +4,10 @@
 </picture>
 
 <p align="left">
-  <a href="https://gentritfactory.ch/portfolio/"><img src="https://img.shields.io/badge/Portfolio-gentritfactory.ch-111111?style=flat-square" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/gentrit-pajaziti-193518259/"><img src="https://img.shields.io/badge/LinkedIn-Gentrit%20Pajaziti-111111?style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:gentmusica@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20contacter-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/●%20Disponible-alternance%20%2F%20stage-f8f8f9?style=flat-square&labelColor=111111" alt="Disponible pour une alternance">
+  <a href="https://gentritfactory.ch/portfolio/"><img src="https://img.shields.io/badge/Portfolio-gentritfactory.ch-111111?style=for-the-badge&labelColor=444444" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/gentrit-pajaziti-193518259/"><img src="https://img.shields.io/badge/LinkedIn-Gentrit%20Pajaziti-0A66C2?style=for-the-badge&labelColor=084B8A" alt="LinkedIn"></a>
+  <a href="mailto:gentmusica@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" alt="Email"></a>
+  <img src="https://img.shields.io/badge/●%20Disponible-alternance%20%2F%20stage-2EA043?style=for-the-badge&labelColor=1A7F37" alt="Disponible pour une alternance">
 </p>
 
 **Étudiant en informatique**, à l’aise dans le contact humain. J’aime écouter les besoins des utilisateurs, communiquer clairement et trouver des solutions concrètes — entre la technique (systèmes, réseaux, cybersécurité, IA) et les personnes qui l’utilisent.
@@ -30,40 +30,61 @@ class Gentrit:
 
 ### `02 / Compétences`
 
-**Informatique**
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=flat-square)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![Réseaux](https://img.shields.io/badge/Notions%20réseaux-111111?style=flat-square)
-![Cybersécurité](https://img.shields.io/badge/Cybersécurité-111111?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square)
-![Google Teachable Machine](https://img.shields.io/badge/Google%20Teachable%20Machine-111111?style=flat-square&logo=google&logoColor=white)
-![Google NotebookLM](https://img.shields.io/badge/Google%20NotebookLM-111111?style=flat-square&logo=google&logoColor=white)
-![Admin système](https://img.shields.io/badge/Administration%20système-111111?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-111111?style=flat-square)
-
-**Support & relation client**
-
-![](https://img.shields.io/badge/Accueil%20%26%20écoute%20active-efeff0?style=flat-square)
-![](https://img.shields.io/badge/Compréhension%20des%20besoins-efeff0?style=flat-square)
-![](https://img.shields.io/badge/Communication%20claire-efeff0?style=flat-square)
-![](https://img.shields.io/badge/Sens%20du%20service-efeff0?style=flat-square)
-![](https://img.shields.io/badge/Suivi%20des%20demandes-efeff0?style=flat-square)
-![](https://img.shields.io/badge/Travail%20en%20équipe-efeff0?style=flat-square)
-![](https://img.shields.io/badge/Organisation%20%26%20fiabilité-efeff0?style=flat-square)
+<table>
+  <tr>
+    <td><b>💻 Langages</b></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL / MySQL">
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell"></td>
+  </tr>
+  <tr>
+    <td><b>🖥️ Systèmes</b></td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge" alt="Windows">
+      <img src="https://img.shields.io/badge/Administration%20syst%C3%A8me-2B3A55?style=for-the-badge" alt="Administration système"></td>
+  </tr>
+  <tr>
+    <td><b>🔐 Réseaux & cyber</b></td>
+    <td><img src="https://img.shields.io/badge/Notions%20r%C3%A9seaux-00838F?style=for-the-badge" alt="Notions réseaux">
+      <img src="https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-C62828?style=for-the-badge" alt="Cybersécurité">
+      <img src="https://img.shields.io/badge/Nmap-4B6584?style=for-the-badge" alt="Nmap"></td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Outils</b></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></td>
+  </tr>
+  <tr>
+    <td><b>🤖 IA</b></td>
+    <td><img src="https://img.shields.io/badge/LLM-7B2CBF?style=for-the-badge" alt="LLM">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://img.shields.io/badge/Google%20Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Teachable Machine">
+      <img src="https://img.shields.io/badge/Google%20NotebookLM-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google NotebookLM"></td>
+  </tr>
+  <tr>
+    <td><b>🤝 Support & relation client</b></td>
+    <td><img src="https://img.shields.io/badge/Accueil%20%26%20%C3%A9coute%20active-00897B?style=for-the-badge" alt="Accueil & écoute active">
+      <img src="https://img.shields.io/badge/Compr%C3%A9hension%20des%20besoins-5E35B1?style=for-the-badge" alt="Compréhension des besoins">
+      <img src="https://img.shields.io/badge/Communication%20claire-1E88E5?style=for-the-badge" alt="Communication claire">
+      <img src="https://img.shields.io/badge/Sens%20du%20service-F4511E?style=for-the-badge" alt="Sens du service">
+      <img src="https://img.shields.io/badge/Suivi%20des%20demandes-6D4C41?style=for-the-badge" alt="Suivi des demandes">
+      <img src="https://img.shields.io/badge/Travail%20en%20%C3%A9quipe-43A047?style=for-the-badge" alt="Travail en équipe">
+      <img src="https://img.shields.io/badge/Organisation%20%26%20fiabilit%C3%A9-546E7A?style=for-the-badge" alt="Organisation & fiabilité"></td>
+  </tr>
+</table>
 
 <br>
 
-### `03 / Expériences & projets`
+### `03 / Langues`
+
+<img src="https://img.shields.io/badge/Albanais-E41E20?style=for-the-badge" alt="Albanais"> <img src="https://img.shields.io/badge/Fran%C3%A7ais-0055A4?style=for-the-badge" alt="Français"> <img src="https://img.shields.io/badge/Allemand-DD0000?style=for-the-badge" alt="Allemand"> <img src="https://img.shields.io/badge/Anglais-012169?style=for-the-badge" alt="Anglais">
+
+<br>
+
+### `04 / Expériences & projets`
 
 <table>
   <tr>
@@ -84,7 +105,7 @@ class Gentrit:
 
 <br>
 
-### `04 / En ce moment`
+### `05 / En ce moment`
 
 - 🔐 J’approfondis la **sécurité réseau** et le durcissement des systèmes
 - 🤖 J’explore l’**IA appliquée** : modèles génératifs, agents, Teachable Machine
