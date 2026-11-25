@@ -95,6 +95,13 @@ class Gentrit:
       <a href="https://gentritfactory.ch/alyxia-solutions/">Voir le site du projet ↗</a>
     </td>
     <td width="50%" valign="top">
+      <sub><code>PROJET PERSONNEL · AUTOMATISATION</code></sub>
+      <h4>« Les grandes questions » — vidéos TikTok automatisées</h4>
+      <p>Compte TikTok <b>monétisé</b> (environ 10 000 abonnés). J’ai automatisé toute la chaîne de production : rédaction des scripts, vérification par IA, voix off IA (ElevenLabs), génération des vidéos par IA (MagicLight), montage (CapCut Pro) et <b>publication planifiée 2 fois par jour</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <sub><code>LABEX · PRATIQUE CONTINUE</code></sub>
       <h4>Apprentissage pratique en cybersécurité</h4>
       <p>En parallèle de ma formation, je m’entraîne sur des labs pratiques : administration Linux, reconnaissance réseau avec Nmap, bases de l’audit et du pentest, et scripting Python.</p>
